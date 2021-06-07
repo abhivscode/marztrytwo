@@ -1,0 +1,6 @@
+"jenkins-runner.hostConfigs": {
+    "local": {
+        "url": "http://localhost:8090"
+    },
+    
+    }
